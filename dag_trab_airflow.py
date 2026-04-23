@@ -20,7 +20,7 @@ DB_PARAMS = {
     "port": "5432"
 }
 
-GEMINI_KEY = "AIzaSyBuGKQaqkFTKz0_36HPa9MOrlpPmEQBxsI"
+GEMINI_KEY = "Chave_API"
 
 #EXTRAÇÃO
 
